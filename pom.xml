@@ -157,6 +157,14 @@
 				<configuration>
 					<warSourceDirectory>war</warSourceDirectory>
 				</configuration>
+				<executions>
+					<execution>
+						<phase>generate-resources</phase>
+						<goals>
+							<goal>inplace</goal>
+						</goals>
+					</execution>
+				</executions>
 			</plugin>
 
 			<plugin>

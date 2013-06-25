@@ -3,3 +3,5 @@
 /.classpath
 /.project
 bin
+tomcat.8080
+war/WEB-INF/lib
