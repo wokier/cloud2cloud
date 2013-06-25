@@ -1,1 +1,1 @@
-web: mvn clean jetty:run
+web: mvn jetty:run
