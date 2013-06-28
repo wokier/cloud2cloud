@@ -4,4 +4,4 @@
 /.project
 bin
 tomcat.8080
-war/WEB-INF/lib
+war/WEB-INF/lib.extract 

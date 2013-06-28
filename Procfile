@@ -1,1 +1,1 @@
-web: java -cp war/WEB-INF/classes:"war/WEB-INF/lib/*" cloud.TomcatMain
+web: java -jar target/cloud2cloud-1-war-exec.jar -httpPort $PORT
